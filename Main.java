@@ -19,6 +19,7 @@ public class Main {
         {
             System.out.println(st.get(i).getName());
         }
+        //This is basuc example of encapsulation
 
     }
 }
