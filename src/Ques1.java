@@ -38,5 +38,6 @@ public class Ques1 {
     {
         BookList.remove(newBook);
     }
+    //This is the code of que1
 }
 
